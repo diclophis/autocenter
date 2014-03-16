@@ -1,4 +1,4 @@
-run:
+run: build/autocenter
 	 build/autocenter assets/alpha-dolphins-001.png
 
 build/autocenter: autocenter.c
